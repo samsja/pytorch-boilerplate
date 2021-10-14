@@ -10,8 +10,19 @@ this boilerplat create a project with the following things:
 * use jupytext sync to avoid to commit notebook
 
 
+This is my personnal boilerplate to avoid copy pasting the same code at each new deep learning project. Feel free to use it, creat an issue, forked it and send a PR !
+
 ## How to use it ?:
 
+install first cookiecutter
 
+```shell
+pip install cookiecutter
+```
 
-This is my personnal boilerplate to avoid copy pasting the same code at each new deep learning project. Feel free to use it, creat an issue, forked it and send a PR !
+then simply run
+
+```
+cookicutter https://github.com/samsja/pytorch-boilerplate
+```
+

@@ -23,6 +23,6 @@ pip install cookiecutter
 then simply run
 
 ```
-cookicutter https://github.com/samsja/pytorch-boilerplate
+cookiecutter https://github.com/samsja/pytorch-boilerplate
 ```
 
